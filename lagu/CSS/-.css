@@ -1,0 +1,37 @@
+body
+{
+	background: skyblue;
+}
+h2
+{
+	color: darkred;
+	background-color: darkblue;
+	font-family: tahoma;
+	text-align: centre;
+}
+p
+{
+	color: blueviolet;
+	text-align: right;
+	font-size: 25px;
+}
+h5
+{
+	color: darkgreen;
+	background: yellowgreen;
+	border: 2px dashed black;
+}
+table, th, td, tr
+{
+	border: 3px solid rosybrown;
+	border-collapse: collapse;
+}
+th
+{
+	background-color: blueviolet;
+	color: whitesmoke;
+}
+tr:hover
+{
+	background-color: black;
+}

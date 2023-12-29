@@ -1,0 +1,40 @@
+body
+{
+	background-color: white;
+
+}
+h1
+{
+	color: blue;
+	background-color: lightgray;
+	font-family: Georgia;
+	font-style: bold;
+	font-size: 24px;
+	text-align: center;
+}
+h2
+{
+	font-family: Georgia;
+	color: darkred;
+	font-size: 18px;
+}
+th
+{
+	font-style: bold;
+}
+p, td
+{
+	font-family: Arial;
+	color: black;
+	font-size: 16px;
+}
+html
+{
+	border: solid black 2px;
+	width: 50%;
+}
+td
+{
+	background-color: white;
+	color: black;
+}
